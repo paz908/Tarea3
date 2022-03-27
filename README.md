@@ -1,12 +1,12 @@
 # Tarea3
-###Parte 1 
-##Descripción 
+### Parte 1 
+## Descripción 
 Mi computador es un Lenovo modelo ThinkPad, tiene un procesador Intel i7, 16 gb de Ram y 256 gb de espacio en el disco duro. Tiene un sistema Windows 10 pro versión 21H1, un sistema operativo de 64 bits, un touchpad integrado y botones.  
 Visualmente es rectangular y de color negro con detalles rojos, las teclas tienen sus iconos pintados en blanco, también tiene un lector de huellas y un botón redondo que funciona como mouse incorporado en el teclado.
-##Critica
+## Critica
 El diseño del computador responde al concepto de trabajo, es por eso su forma y colores, pero para mí no es visualmente atractivo porque no me gusta que sea tan robusto y tosco, aunque si es muy ergonómico y fácil de usar. Uno de los aspectos que más me gusta es el detector de huellas porque me facilita el desbloqueo del computador cada vez que lo inicio y así no tengo que recordar tantas contraseñas. Lo que haría si pudiera mejorarlo sería es sacarle el botón que funciona como mouse porque no cumple mucha funcionalidad y ocupa espacio y además tiene incorporado un touchpad que es mucho más fácil de usar, aunque yo ocupo un mouse ergonómico externo debido a que me facilita aún más el trabajo y evito que me duela la mano después de estar horas trabajando.    
-###Parte 2
-Creación del sensor
+### Parte 2
+## Creación del sensor
 Crearía un sensor que mida el flujo del agua en las casas y tenga un semáforo que se comunique con el sensor y podría ubicarse en una pared del living para ser visible por los habitantes, este tendría tres luces donde la luz roja representa el momento donde se superó la cuota de agua usable para el día (considerando una cantidad de litros que permita a un ser humano hacer su vida cotidiana normal), la luz amarilla cuando se está acercando a esa cuota y la luz verde representaría un uso sustentable de agua. Esto ayudaría a la concientización del uso del agua en hogares y ayudaría a la creación del hábito de uso consiente y responsable de agua. 
 Este sensor se podría programar según la cantidad de personas habitando el lugar, se tendría que poner en todos los flujos de agua que existan para su correcto funcionamiento además de ser liviano y pequeño cosa que no intervenga demasiado en la estética de cada hogar.
 Sería de un bajo costo para que todas las casas puedan disponer de ellos además de ser fácil de usar ya que solo tendrían que enroscarse en las llaves e instalar el semáforo donde sea visible para lograr la concientización en el uso del agua. 
